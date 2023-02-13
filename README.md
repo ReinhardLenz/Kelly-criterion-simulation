@@ -12,7 +12,7 @@ In the following, the capital of each stage of the game is calculated.
 At last, the 2D column chart is created
 
 
- $temporary="<img src='bar.png'  width='10' height='".$height[$n]."'>";
+ $temporary=<img src=bar.png  width='10' height=.$height[$n].>;
  
  where the height of the columns is calculated  depending on array variable$capital[$n]
   $height[$n]=strval(round(300*$capital[$n]/$max_height_corresponds,PHP_ROUND_HALF_DOWN));
