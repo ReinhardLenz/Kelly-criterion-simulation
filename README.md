@@ -1,5 +1,5 @@
 # Kelly-criterion-simulation
-a web page written in php, which allows user to set start criteria and then let the web page run and show, to what it leads. I always regretted, that in my school time, I wasn't really taught anything about economics, and we didn't talk too much about it in the family, money was a taboo somehow. But it seems, that Understanding Kelly critering is quite a valuable skill.
+a web page written in php, which allows user to set start criteria and then let the web page run and show, to what it leads. I always regretted, that in my school time, I wasn't really taught anything about economics, and we didn't talk too much about it in the family, money was a taboo somehow. Instead, knowledge of classic latin was valued. But it seems, that Understanding Kelly critering is quite a valuable skill.
 
 The input is Win $probability, Odds of the event $odds, start capital $start_cap and fraction of bankroll to be wagered $fraction_wagered.
 
