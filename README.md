@@ -4,6 +4,7 @@ a web page written in php, which allows user to "simulate" a casino game. let th
 The background: Why it doesn't pay to put all your money on one horse?
 
 In an experiment a group of persons were asked to participate at a lottery, in which the participiants can win and then double the wage in 60% of the cases, but in 40% of the case they lose the wagered part of their capital. For a start each participant was given 20 Dollars and then he had 30 minutes time to play the game. Theoretically, in this 30 minutes one could bet 300 times.
+
 ![casino](https://github.com/ReinhardLenz/Kelly-criterion-simulation/assets/71219487/26941637-7d95-4cb4-9913-de62e90e2eb4)
 
 The result of this experiment? At the end, a third of the participants had less then at the start of the experiment, even more, 28 percent of the participants had lost all the capital and went bancrupt. Only 21 percent of the participants achieved the required required maximum of 250 Dollars, which should have been achieved at correct application of the Kelly criterium. Accordingly, the average payout of 91 Dollars was significantly below the expected value of 250 Dollars. 18 persons of the 61 participants of the experiment even put all their eggs in one basket, whereby the probability of a total loss went up to 40 percent. Whereas, when using the Kelly formula, the probability of a total loss is almost zero percent.
